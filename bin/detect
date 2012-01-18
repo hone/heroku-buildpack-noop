@@ -1,0 +1,4 @@
+#!/bin/sh
+
+BUILD_DIR=$1
+echo Noop
